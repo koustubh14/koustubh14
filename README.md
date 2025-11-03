@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/koustubhtr67574" target="blank"><img src="https://img.shields.io/twitter/follow/koustubhtr67574?logo=twitter&style=for-the-badge" alt="koustubhtr67574" /></a> </p>
 
-- 🔭 I’m currently working on [Prompt Engineering for ChatGPT](https://www.coursera.org/learn/prompt-engineering/home/week/1)
+- 🔭 I’m currently working on Quantum Reinforcement Learning for Autonomous Decision Systems
 
 - 🌱 I’m currently learning **Prompt engineering , Machine learing ,Data Analytics**
 
